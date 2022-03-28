@@ -1,0 +1,1 @@
+# Desafios---GFT-QA-1-Soma-Simples
